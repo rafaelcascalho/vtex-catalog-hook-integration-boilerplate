@@ -33,7 +33,7 @@ Now you can simulate the request to your endpoint according to the docs with a c
 
 ```json
 curl --request POST \
-  --url https://30d32d8c740f.ngrok.io/skus \
+  --url http://localhost:3000/skus \
   --header 'Content-Type: application/json' \
   --data '{
   "IdSku": "42",
