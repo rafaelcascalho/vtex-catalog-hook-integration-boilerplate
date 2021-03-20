@@ -1,0 +1,8 @@
+# Dependencies folder
+node_modules/
+
+# dotenv file
+.env
+
+# SSL files
+*.pem
